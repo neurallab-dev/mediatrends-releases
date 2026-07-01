@@ -1,0 +1,1 @@
+a7a41623aa9202908f44e931612b5ea97ffab99db73b2d583d51f45510914d99  releases/v0.1.0/MediaTrends-0.1.0-macos-arm64.dmg
